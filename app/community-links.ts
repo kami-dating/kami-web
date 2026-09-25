@@ -15,6 +15,6 @@ export const communityLinks: CommunityLink[] = [
   {
     name: "Reddit",
     blurb: "Long-form discussion, updates, and feedback threads.",
-    href: "https://www.reddit.com/r/KamiApp/",
+    href: "https://www.reddit.com/r/KamiDating/",
   },
 ];
